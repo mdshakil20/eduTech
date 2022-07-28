@@ -8,3 +8,7 @@ body{
     color: #ffffff;
     background-color: rgb(58, 58, 58);
 }
+.small-device_overFlow{
+    height: 3em;
+    overflow: hidden;
+}
