@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    min-width: 414px;
 }
 .social_links a{
     color: #ffffff;
@@ -8,4 +9,7 @@ body{
 .small-device_overFlow{
     height: 3em;
     overflow: hidden;
+}
+.carousel-caption_css{
+    margin-bottom: -20px;
 }
